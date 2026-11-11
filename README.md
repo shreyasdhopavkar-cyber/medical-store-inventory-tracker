@@ -4,10 +4,10 @@ A command-line application built in C for managing medicine inventory in small p
 
 > **Course:** C Programming Mini Project  
 > **Domain:** Healthcare  
-> **Team Members:**  
-> - [Your Name] — [Your Roll Number]  
-> - [Your Name] — [Your Roll Number]  
-> - [Your Name] — [Your Roll Number]  
+> **Project Type:** Individual Mini Project  
+> **Student Name:** Shreyas Yashodhan Dhopavkar  
+> **MIS:** 612505092  
+> **GitHub Repository:** [medical-store-inventory-tracker](https://github.com/shreyasdhopavkar-cyber/medical-store-inventory-tracker)  
 
 ---
 
@@ -373,4 +373,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-> Built as a mini project for learning C programming concepts like structures, file handling, modular design, and more. It's not production software, but it covers a realistic use case and gave us a good understanding of how to build a complete application in C.
+> Built as an individual mini project for learning C programming concepts like structures, file handling, modular design, and unit testing. It covers a realistic use case and provides practical understanding of how to build a complete application in C.

@@ -5,6 +5,11 @@
 | Field | Details |
 |-------|---------|
 | **Project Title** | Medical Store Inventory and Expiry Tracker |
+| **Domain** | Healthcare |
+| **Project Type** | Individual Mini Project |
+| **Author** | Shreyas Yashodhan Dhopavkar |
+| **MIS Number** | 612505092 |
+| **Repository Link** | https://github.com/shreyasdhopavkar-cyber/medical-store-inventory-tracker |
 | **Language** | C (with C++ unit tests) |
 | **Platform** | Windows / Linux (Console Application) |
 | **Version** | 1.0 |
