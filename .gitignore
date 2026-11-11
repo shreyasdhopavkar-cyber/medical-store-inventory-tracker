@@ -1,0 +1,27 @@
+# Build output
+*.o
+*.exe
+*.out
+medstore
+test_medstore
+
+# Build directories
+build/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Core dumps
+core
+
+# Temporary files
+*.tmp
+*.log
